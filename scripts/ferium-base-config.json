@@ -1,0 +1,14 @@
+{
+    "active_profile": 0,
+    "active_modpack": 0,
+    "profiles": [
+        {
+            "name": "server",
+            "output_dir": "/data/mods",
+            "game_version": "1.19",
+            "mod_loader": "Fabric",
+            "mods": []
+        }
+    ],
+    "modpacks": []
+}
