@@ -10,6 +10,7 @@ services:
       EULA: "TRUE"
       TYPE: "FABRIC"
       VERSION: "1.19"
+      MEMORY: "4G"
     tty: true
     stdin_open: true
     restart: unless-stopped
