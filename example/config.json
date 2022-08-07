@@ -1,0 +1,75 @@
+{
+  "active_profile": 0,
+  "active_modpack": 0,
+  "profiles": [
+    {
+      "name": "minecraft-personal-server",
+      "output_dir": "/data/mods",
+      "game_version": "1.19",
+      "mod_loader": "Fabric",
+      "mods": [
+        {
+          "name": "Fabric API",
+          "identifier": {
+            "ModrinthProject": "P7dR8mSH"
+          }
+        },
+        {
+          "name": "Fabric Waystones",
+          "identifier": {
+            "ModrinthProject": "sTZr7NVo"
+          }
+        },
+        {
+          "name": "Forge Config API Port",
+          "identifier": {
+            "CurseForgeProject": 547434
+          }
+        },
+        {
+          "name": "Lithium",
+          "identifier": {
+            "ModrinthProject": "gvQqBUqZ"
+          }
+        },
+        {
+          "name": "Mod Menu",
+          "identifier": {
+            "CurseForgeProject": 308702
+          }
+        },
+        {
+          "name": "Open Parties and Claims",
+          "identifier": {
+            "CurseForgeProject": 636608
+          }
+        },
+        {
+          "name": "Phosphor",
+          "identifier": {
+            "ModrinthProject": "hEOCdOgW"
+          }
+        },
+        {
+          "name": "Terralith",
+          "identifier": {
+            "CurseForgeProject": 513688
+          }
+        },
+        {
+          "name": "Xaero's Minimap",
+          "identifier": {
+            "CurseForgeProject": 263420
+          }
+        },
+        {
+          "name": "Xaero's World Map",
+          "identifier": {
+            "CurseForgeProject": 317780
+          }
+        }
+      ]
+    }
+  ],
+  "modpacks": []
+}

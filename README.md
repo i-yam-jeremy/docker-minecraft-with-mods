@@ -2,5 +2,4 @@
 A Docker container for MineCraft servers with built-in mod configuration
 
 # Exporting a local Ferium profile to mods.txt
-Ensure you have switched to the correct ferium profile. Then run:
-```ferium list | awk '{print $(NF)}' > mods.txt```
+Use `$HOME/.config/ferium/config.json` for exporting local configs to a server

@@ -15,8 +15,6 @@ WORKDIR /data
 STOPSIGNAL SIGTERM
 
 COPY scripts/install-mods-and-start.sh /install-mods-and-start.sh
-COPY scripts/ferium-base-config.json /root/.config/ferium/config.json
-
 
 RUN chmod +x /install-mods-and-start.sh
 
